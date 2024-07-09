@@ -1,0 +1,8 @@
+Flask==3.0.0
+google-cloud-datastore==2.19.0
+google-cloud-storage
+requests
+certifi
+pyjwt
+six
+python-jose
